@@ -42,53 +42,7 @@
 					</blockquote>
 					<cite>~ St. Clement of Alexandra</cite>
 				</div>
-				<div class="quote">
-					<blockquote>
-						"We are all inventors, each sailing out on a voyage of discovery, 
-						guided each by a private chart, of which there is no duplicate. The world 
-						is all gates, all opportunities."
-					</blockquote>
-					<cite>~ Ralph Waldo Emerson</cite>
-				</div>
-				<div class="quote">
-					<blockquote>
-						"Without inspiration the best powers of the mind remain dormant. 
-						There is a fuel in us which needs to be ignited with sparks."
-					</blockquote>
-					<cite>~ Johann Gottfried Von Herder</cite>
-				</div>
-				<div class="quote">
-					<blockquote>
-						"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."
-					</blockquote>
-					<cite>~ Aristotle</cite>
-				</div>
-				<div class="quote">
-					<blockquote>
-						"Without inspiration the best powers of the mind remain dormant. 
-						There is a fuel in us which needs to be ignited with sparks."
-					</blockquote>
-					<cite>~ Johann Gottfried Von Herder</cite>
-				</div>
-				<div class="quote">
-					<blockquote>
-						"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."
-					</blockquote>
-					<cite>~ Aristotle</cite>
-				</div>
-				<div class="quote">
-					<blockquote>
-						"Without inspiration the best powers of the mind remain dormant. 
-						There is a fuel in us which needs to be ignited with sparks."
-					</blockquote>
-					<cite>~ Johann Gottfried Von Herder</cite>
-				</div>
-				<div class="quote">
-					<blockquote>
-						"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."
-					</blockquote>
-					<cite>~ Aristotle</cite>
-				</div>
+
 			</section>
 			<aside id="sidebar" class="col">
 				
